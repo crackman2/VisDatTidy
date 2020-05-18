@@ -1,0 +1,54 @@
+﻿  Source.cpp
+g:\script\c++\visdattidy\visdattidy\source.cpp(170): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+g:\script\c++\visdattidy\visdattidy\source.cpp(182): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+g:\script\c++\visdattidy\visdattidy\source.cpp(218): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+g:\script\c++\visdattidy\visdattidy\source.cpp(230): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+g:\script\c++\visdattidy\visdattidy\source.cpp(268): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+g:\script\c++\visdattidy\visdattidy\source.cpp(293): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+g:\script\c++\visdattidy\visdattidy\source.cpp(319): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+g:\script\c++\visdattidy\visdattidy\source.cpp(333): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+g:\script\c++\visdattidy\visdattidy\source.cpp(348): warning C4244: 'argument': conversion from 'DWORD' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+g:\script\c++\visdattidy\visdattidy\source.cpp(349): warning C4244: 'argument': conversion from 'unsigned long' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+g:\script\c++\visdattidy\visdattidy\source.cpp(512): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+g:\script\c++\visdattidy\visdattidy\source.cpp(513): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  VisDatTidy.vcxproj -> G:\Script\C++\VisDatTidy\Debug\VisDatTidy.exe
