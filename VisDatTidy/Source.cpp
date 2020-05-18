@@ -730,10 +730,6 @@ int main() {
 				vis.firstclick = true;
 			}
 
-			
-			
-
-
 		}
 
 		/* 
@@ -746,6 +742,7 @@ int main() {
 			con.HandleCommand();
 		}
 		*/
+
 
 
 
